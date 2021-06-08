@@ -1,0 +1,212 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+  /*copmmon start */
+  .kid1,.kid2,.courses{
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+/*header start*/
+.logo{
+  width: 150px;
+}
+.menu ul li a{
+    padding: 3px 12px;
+  }
+  .menu ul li a:hover{
+    background-color: transparent;
+    color: #f05c5c!important;
+  }
+   .d_user_ul{
+    top: 105%;
+    left: 0;
+  }
+  .d_search_ul{
+    top: 105%;
+    left: 0;
+  }
+    /*banner stat*/
+.b_content h1{
+  margin-top: 80PX;
+  margin-bottom: 90PX;
+  font-size: 33px;
+ }
+ .scroll p{
+  font-size: 16px;
+ }
+ .scroll i{
+  font-size: 20px;
+ }
+  /*kid1 start*/
+ .kid1{}
+
+ .c_h1{
+  font-size: 25px;
+ }
+ .c_border{
+  font-size: 22px;
+ }
+  .c_content{
+  margin-bottom: 30px;
+ }
+  .k1_images{
+  margin-bottom: 30px;
+  text-align: center;
+ }
+ .discover{
+  width: 180px;
+ }
+  /*kid2 start*/
+ .k2_single{
+  margin-bottom: 30px;
+ }
+ .k2_single2{
+  margin-bottom: 0px;
+ }
+ .k2_single h2{
+    font-size: 20px;
+ }
+  /*courses start*/
+.c_content2{
+  margin-bottom: 50px;
+}
+.c_single{
+  margin-bottom: 30px;
+}
+
+}
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+    /*copmmon start */
+  .kid1,.kid2,.courses{
+  padding-top: 70px;
+  padding-bottom: 70px;
+}
+ /*header start*/
+ .menu ul li a{
+    padding: 3px 12px;
+  }
+  .menu ul li a:hover{
+    background-color: transparent;
+    color: #f05c5c!important;
+  }
+   .d_user_ul{
+    top: 105%;
+    left: 0;
+  }
+  .d_search_ul{
+    top: 105%;
+    left: 0;
+  }
+  /*banner stat*/
+.b_content h1{
+  margin-top: 100PX;
+  margin-bottom: 110PX;
+  font-size: 38px;
+ }
+ .scroll p{
+  font-size: 16px;
+ }
+ .scroll i{
+  font-size: 23px;
+ }
+ /*kid1 start*/
+ .c_h1{
+  font-size: 25px;
+ }
+ .c_border{
+  font-size: 25px;
+ }
+ .c_content{
+  margin-bottom: 30px;
+ }
+  .k1_images{
+  margin-bottom: 30px;
+ }
+ .discover{
+  width: 200px;
+ }
+ /*kid2 start*/
+ .k2_single{
+  margin-bottom: 40px;
+ }
+ .k2_single2{
+  margin-bottom: 0px;
+ }
+ /*courses start*/
+.c_content2{
+  margin-bottom: 50px;
+}
+.c_single{
+  margin-bottom: 30px;
+}
+
+  }
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+   /*header start*/
+  .menu ul li a{
+    padding: 3px 12px;
+  }
+  .menu ul li a:hover{
+    background-color: transparent;
+    color: #f05c5c!important;
+  }
+  .d_user_ul{
+    top: 105%;
+    left: 0;
+
+  }
+  .d_search_ul{
+    top: 105%;
+    left: 0;
+  }
+     /*banner stat*/
+.b_content h1{
+  margin-top: 140PX;
+  margin-bottom: 150PX;
+ }
+ /*kid1 start*/
+ .k1_images{
+  margin-bottom: 30px;
+ }
+ .discover{
+  width: 200px;
+ }
+ /*kid2 start*/
+ .k2_single{
+  margin-bottom: 50px;
+ }
+ .k2_single2{
+  margin-bottom: 0px;
+ }
+ .k2_single h2{
+    font-size: 25px;
+ }
+/*courses start*/
+.c_content2{
+  margin-bottom: 50px;
+}
+.c_single{
+  margin-bottom: 30px;
+}
+}
+
+
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+   /*banner stat*/
+.b_content h1{
+  margin-top: 110PX;
+  margin-bottom: 120PX;
+ }
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) { 
+  /*banner stat*/
+.b_content h1{
+  margin-top: 240PX;
+  margin-bottom: 250PX;
+ }
